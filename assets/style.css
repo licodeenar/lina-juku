@@ -20,6 +20,10 @@ a {
     color: #2cb696;
 }
 
+a:visited {
+    color: #353;
+}
+
 @media (max-width: 670px) {
     /* スマホ */
     main {
